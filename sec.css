@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.aaa{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    border: 3px dotted yellow;
+    height: 100vh;
+}
+.head{
+    border: 2px solid black;
+    border-radius: 8px ;
+    height: auto;
+    width: 85%;
+    text-align: center;
+    padding: 3px 0px; 
+}
+h1{
+    padding: 8px;
+
+
+}
+input{
+    margin: 5px;
+    width: 80%;
+}
